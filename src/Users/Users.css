@@ -1,0 +1,13 @@
+.users-main-div {
+  display: flex;
+  text-align: center;
+}
+.user-info {
+  width: 70%;
+  border: 1px solid yellow;
+  text-align: center;
+}
+.user-cart {
+  border: 1px solid red;
+  text-align: center;
+}
